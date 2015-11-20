@@ -1,8 +1,7 @@
 import os, sys,json
 import subprocess as sub
 from settings_local import *
-from parse_rest.connection import register
-from parse_rest.datatypes import Object
+
 import ParsePy
 import re
 

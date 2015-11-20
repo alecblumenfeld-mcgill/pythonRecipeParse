@@ -1,0 +1,4 @@
+.vagrant
+*.pyo
+*.pyc
+settings_local.py
